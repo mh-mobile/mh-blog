@@ -1,14 +1,10 @@
----
-title: nuxt/contentでサクッとブログを作る
-date: 2020.11.30
-category: dev
----
+* aaa
+* bbbb
 
-# やったこと
+また、コードブロックの言語の後に角括弧内でファイル名を追加することで、コードブロックのファイル名を追加することもできます。
 
+```js
+export default {
+  nuxt: "is the best"
+}
 
-
-#### 参考
-
-* sss
-* bbb
